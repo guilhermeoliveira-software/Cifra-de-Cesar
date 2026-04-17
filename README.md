@@ -1,11 +1,4 @@
-import os
-
-
-readme_content = """# 🔐 Cifra de César em Java
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen?style=for-the-badge)
-![Security](https://img.shields.io/badge/Domain-Cyber%20Security-red?style=for-the-badge)
+# 🔐 Cifra de César em Java
 
 Este projeto foi desenvolvido como parte da disciplina de **Cyber Security** na **UniFametro**. O objetivo principal foi implementar um dos algoritmos de criptografia mais antigos e conhecidos da história: a **Cifra de César**.
 
